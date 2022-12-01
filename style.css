@@ -20,6 +20,9 @@
     justify-content: space-between;
 }
 
+.navbar .info{
+    margin-top: 100px;
+}
 .res img{
     margin-top: 25px;
     margin-right: 25px;
@@ -81,3 +84,4 @@ th,td{
     text-align: center;
     font-size: larger;
 }
+
